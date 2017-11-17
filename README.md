@@ -10,6 +10,8 @@ There is a set of problems/exercises for each topic:
 
         1. [Hello World](./1-JEE-development/2-session-beans/1-hello-world) - [README](./1-JEE-development/2-session-beans/1-hello-world/README.md)
 
+2. [SOAP web services](./2-SOAP-web-services) - [Problem descriptions](./2-SOAP-web-services/2-soap-web-services.pdf)
+
 ## Authors
 - [Sergio Muñoz](https://github.com/sermuno)
 - [Jorge Sanz](https://github.com/jorge-sanz)
